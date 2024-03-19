@@ -32,6 +32,15 @@ The "HealthcareDataset2.xlsx" file contains the following columns:
 6. TreatmentType: Type of treatment provided.
 7. RecoveryRating: A rating of the patient's recovery (out of 10).
 
+### Dashboard:
+Dashboard 1
+![](https://github.com/deepakkush02/Healthcare-Analysis/blob/main/Healthcare%20Dashboard%201.png)
+
+Dashboard 2
+![](https://github.com/deepakkush02/Healthcare-Analysis/blob/main/Healthcare%20Dashboard%202.png)
+
+Chart
+![](https://github.com/deepakkush02/Healthcare-Analysis/blob/main/chart%204.png)
 ### Conclusion
  The analysis conducted through Power BI has provided valuable insights into the healthcare datasets, illuminating various aspects of patient care and hospital management. By meticulously cleaning the data, leveraging sophisticated data modeling techniques, and employing advanced DAX calculations, we've been able to uncover trends and patterns that can significantly impact decision-making in the healthcare industry.
 
