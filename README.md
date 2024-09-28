@@ -34,7 +34,7 @@ The "HealthcareDataset2.xlsx" file contains the following columns:
 
 ### Dashboard:
 Dashboard 1
-![](https://github.com/deepakkush02/Healthcare-Analysis/blob/main/Healthcare%20Dashboard%201.png)
+![](https://github.com/deepakkush02/Healthcare-Analysis/blob/main/Dashboard.png)
 
 Dashboard 2
 ![](https://github.com/deepakkush02/Healthcare-Analysis/blob/main/Healthcare%20Dashboard%202.png)
